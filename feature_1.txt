@@ -1,2 +1,0 @@
-feature2 from feature2
-add feateru1 from featur1 from featur2
